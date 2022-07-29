@@ -44,7 +44,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 #### Footer
 Lindsay L. Libhart
 Libhartinc@gmail.com
-https://github.com/LibhartLL/WeatherDashboard06
+https://libhartll.github.io/YesOrNo8Ball/
 GitHub Repository for Lindsay L. Libhart
 https://github.com/LibhartLL
  
