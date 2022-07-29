@@ -19,7 +19,7 @@ This project is created with:
 * JavaScript
 
 ## Screenshot
-Project screenshot Link to my deployed github page: https://libhartll.github.io/WeatherDashboard06/
+Project screenshot Link to my deployed github page: https://libhartll.github.io/YesOrNo8Ball/
 ![This is an image](./Assets/Images/yes-no.jpg)
 
 ## Credits
