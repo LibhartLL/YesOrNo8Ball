@@ -20,7 +20,7 @@ This project is created with:
 
 ## Screenshot
 Project screenshot Link to my deployed github page: https://libhartll.github.io/WeatherDashboard06/
-![This is an image](./assets/Image/yes-no.jpg)
+![This is an image](./Assets/Image/yes-no.jpg)
 
 ## Credits
 I consulted the following resources:
